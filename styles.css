@@ -4,7 +4,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: blue;
+    background-color: orange;
 }
 ul {
     padding: 0;
@@ -29,7 +29,7 @@ li::after {
     position: absolute;
     width: 0.6em;
     height: 0.6em;
-    background-color: #ff4500;
+    background-color:blue;
     border-radius: 50%;
     transition: 0.5s cubic-bezier(0.5, -0.5, 0.25, 1.5);
     top: calc(50% - 0.6em / 2);
